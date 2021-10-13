@@ -42,3 +42,12 @@ If you find this dataset useful in your research, we would appreciate citations 
   year=2021,
 }
 ```
+## Digital Twin Remote Control Dataset
+Details for the dataset collecton can be found in the published papers that are mentioned below.
+
+Dataset from a Digital Twin comprising a Niryo One robot manipulator performing 4 different actions. Details about the actions can be found in the video that is available [here](./dataset/micro-dataset/).
+
+ - Micro dataset: new robot instance is added every 60 seconds. (dataset available [here](./dataset/micro-dataset/)).
+ - Small dataset: new robot instance is added every 300 seconds. (dataset available [here](./dataset/small-dataset/)).
+ - Big dataset:   new robot instance is added every 3600 seconds. (dataset available [here](./dataset/big-dataset/)).
+   - labeled version is available of the big dataset that is used to train Random Forest classifier.
