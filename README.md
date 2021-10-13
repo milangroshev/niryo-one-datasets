@@ -48,15 +48,19 @@ Details for the dataset collecton can be found in the published papers that are 
 Dataset from a Digital Twin comprising a Niryo One robot manipulator performing 4 different actions. 
 Details about the actions can be found in the movements-for-paper-dataset.mp4 video that is available [here](./digital-twin-remote-control/).
 
+### Citations
+If you find this dataset useful in your research, we would appreciate citation to the following paper:
+
 ```
-@INPROCEEDINGS{commag-demo,
+@ARTICLE{9530501,
   author={Groshev, Milan and Guimarães, Carlos and Martín-Pérez, Jorge and de la Oliva, Antonio},
-  title={Toward Intelligent Cyber-Physical Systems: Digital Twin Meets Artificial Intelligence},
-  booktitle={IEEE Communications Magazine},  
+  journal={IEEE Communications Magazine}, 
+  title={Toward Intelligent Cyber-Physical Systems: Digital Twin Meets Artificial Intelligence}, 
   year={2021},
   volume={59},
   number={8},
   pages={14-20},
   doi={10.1109/MCOM.001.2001237}}
+
   ```
 
