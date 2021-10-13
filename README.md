@@ -1,5 +1,7 @@
 # Niryo One robot Dataset
 ## Digital Twin Scalability Dataset
+Details for the dataset collecton can be found in the two published papers that are mentioned below.
+
 Dataset from a Digital Twin comprising a Niryo One robot manipulator
 
  - Micro dataset: new robot instance is added every 60 seconds. (dataset available [here](./dataset/micro-dataset/)).
